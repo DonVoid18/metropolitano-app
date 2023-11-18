@@ -56,18 +56,14 @@ const DashHeader = () => {
             <nav>
               <ul className="flex gap-4">
                 <li>
-                  <Link className="btn bg-btnColorSecondary" to="/register">
+                  <Link className="btn bg-btnColorSecondary" to="/login">
                     ¡Reservar Cita!
                   </Link>
                 </li>
                 <li>
-                  <a
-                    className="btn bg-primary"
-                    href="https://www.ieee.org/"
-                    target="_blank"
-                  >
+                  <Link className="btn bg-primary" to="/registrame">
                     Registrarme
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </nav>
@@ -111,19 +107,15 @@ const DashHeader = () => {
                 <li>
                   <Link
                     className="btn block bg-btnColorSecondary text-center hover:opacity-70"
-                    to="/register"
+                    to="/login"
                   >
                     ¡Reservar Cita!
                   </Link>
                 </li>
                 <li>
-                  <a
-                    className="btn block bg-primary text-center"
-                    href="https://www.ieee.org/"
-                    target="_blank"
-                  >
+                  <Link className="btn bg-primary text-center" to="/registrame">
                     Registrarme
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </nav>

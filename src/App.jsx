@@ -40,9 +40,9 @@ const App = () => {
           <Route path="/ubicanos" element={<Ubicacion />} />
           <Route path="*" element={<Page_404 />} />
         </Route>
-        <Route path="/admin/login" element={<Login />} />
-        <Route path="/register" element={<Register />} />
-        <Route path="/registerMember" element={<RegisterMember />} />
+        {/* <Route path="/admin/login" element={<Login />} /> */}
+        {/* <Route path="/register" element={<Register />} /> */}
+        {/* <Route path="/registerMember" element={<RegisterMember />} /> */}
       </Routes>
     </>
   )
