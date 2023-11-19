@@ -58,6 +58,8 @@ const Conocenos = () => {
                   “Brindamos prestaciones de salud, económicas y sociales a
                   nuestros asegurados con una gestión eficiente e innovadora
                   que garantiza la protección financiera de las prestaciones integrales”.
+
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, recusandae.
                 </p>
               </motion.div>
               <motion.div
