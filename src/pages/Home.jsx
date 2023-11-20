@@ -258,7 +258,7 @@ function Home() {
               Depende de la Gerencia General.
             </p>
             <Link className="btn bg-black p-5" to="/register">
-              ¡Reservar citas!
+              ¡Reservar cita!
             </Link>
           </motion.div>
           <motion.div
