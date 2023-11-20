@@ -23,7 +23,10 @@ const Conocenos = () => {
               Conoce sobre nosotros
             </h3>
             <p className="text-xl text-colorTextSecundary">
-              Lorem ipsum dolor sit amet consectetur. Laudantium ducimus ullam laboriosam doloremque error similique quisquam explicabo eos, aut pariatur magni voluptates fugiat, enim aliquam alias ex velit labore perspiciatis, doloribus veniam sit? Dolorum, tempora fugiat. Doloribus natus consequatur quas possimus cumque, iusto vero? Animi, molestiae asperiores repellendus, et deleniti ducimus alias, accusamus numquam sed aut ipsa beatae quae quibusdam eligendi quas dolore sapiente deserunt laboriosam corporis totam nisi. Totam dolorum expedita sint doloremque aliquid molestias nihil nobis error consequatur aliquam earum necessitatibus, odio ipsa atque nisi porro! Eum, modi incidunt provident culpa tempora laboriosam adipisci magni expedita cumque atque!
+              El Seguro Social de Salud está vinculado al Ministerio de Salud para elaborar lineamientos generales en el sector 
+              salud. Además, en la actualidad, está relacionado con el Ministerio de Economía y Finanzas porque a través 
+              del Fondo Nacional de Financiamiento de la Actividad Empresarial del Estado – FONAFE se le autoriza su presupuesto 
+              anual, formando parte de las empresas del Estado Peruano.
             </p>
           </motion.div>
           <div className="flex items-center justify-center">
