@@ -60,11 +60,12 @@ const Conocenos = () => {
               >
                 <h2 className="text-4xl font-bold">Misión</h2>
                 <p className="text-justify text-xl text-colorTextSecundary">
-                  “Brindamos prestaciones de salud, económicas y sociales a
-                  nuestros asegurados con una gestión eficiente e innovadora
-                  que garantiza la protección financiera de las prestaciones integrales”.
-
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, recusandae.
+                   "La misión de Essalud es brindar servicios de salud integrales y de 
+                   calidad a todos los asegurados y sus familias, con un enfoque en la prevención,
+                   recuperación y rehabilitación de la salud. Esto implica no solo la atención médica, 
+                   sino también la promoción de estilos de vida saludables y la educación sobre la prevención 
+                   de enfermedades. Prestaciones de salud, económicas y sociales a nuestros asegurados con una 
+                   gestión eficiente e innovadora que garantiza la protección financiera de las prestaciones integrales"
                 </p>
               </motion.div>
               <motion.div
@@ -112,9 +113,11 @@ const Conocenos = () => {
               >
                 <h2 className="text-4xl font-bold">Visión</h2>
                 <p className="text-justify text-xl text-colorTextSecundary">
-                  “Ser una institución moderna y en mejora continua, centrada en
-                  los asegurados, que garantiza el acceso a la seguridad social
-                  en salud con ética, oportunidad y calidad”.
+                    "Essalud aspira a ser líder en la prestación de servicios de salud, destacándose 
+                    por su excelencia en la atención médica, calidez en el trato a los pacientes y 
+                    accesibilidad a sus servicios. La visión también incluye el compromiso de contribuir 
+                    al bienestar y desarrollo de la sociedad peruana en su conjunto, no solo a través de la
+                   atención médica, sino también a través de programas de salud comunitaria y colaboraciones con otras entidades de salud."
                 </p>
               </motion.div>
             </div>
