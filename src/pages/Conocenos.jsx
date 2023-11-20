@@ -23,10 +23,10 @@ const Conocenos = () => {
               Conoce sobre nosotros
             </h3>
             <p className="text-xl text-colorTextSecundary">
-              El Seguro Social de Salud está vinculado al Ministerio de Salud para elaborar lineamientos generales en el sector 
-              salud. Además, en la actualidad, está relacionado con el Ministerio de Economía y Finanzas porque a través 
-              del Fondo Nacional de Financiamiento de la Actividad Empresarial del Estado – FONAFE se le autoriza su presupuesto 
-              anual, formando parte de las empresas del Estado Peruano.n todos estos años, el Seguro Social de Salud ha sufrido 
+              El Seguro Social de Salud está vinculado al Ministerio de Salud para elaborar lineamientos generales en el sector
+              salud. Además, en la actualidad, está relacionado con el Ministerio de Economía y Finanzas porque a través
+              del Fondo Nacional de Financiamiento de la Actividad Empresarial del Estado – FONAFE se le autoriza su presupuesto
+              anual, formando parte de las empresas del Estado Peruano.n todos estos años, el Seguro Social de Salud ha sufrido
               numerosos cambios estructurales, del cual se han ido modificando para mejorar la gestión institucional en beneficio de los asegurados y sus derechohabientes.
               A inicios del 2013, el Ministerio de Trabajo y Promoción del Empleo declara en reorganización al Seguro Social de Salud mediante Decreto Supremo N° 016-2012-TR.
             </p>
@@ -34,7 +34,7 @@ const Conocenos = () => {
           <div className="flex items-center justify-center">
             <div className="h-full w-full">
               <img
-                src="/public/huan.jpg"
+                src="https://i.ibb.co/ZmwZV2Q/huan.jpg"
                 alt="Image 2"
                 className="h-full w-full object-cover"
               />
@@ -60,12 +60,12 @@ const Conocenos = () => {
               >
                 <h2 className="text-4xl font-bold">Misión</h2>
                 <p className="text-justify text-xl text-colorTextSecundary">
-                   "La misión de Essalud es brindar servicios de salud integrales y de 
-                   calidad a todos los asegurados y sus familias, con un enfoque en la prevención,
-                   recuperación y rehabilitación de la salud. Esto implica no solo la atención médica, 
-                   sino también la promoción de estilos de vida saludables y la educación sobre la prevención 
-                   de enfermedades. Prestaciones de salud, económicas y sociales a nuestros asegurados con una 
-                   gestión eficiente e innovadora que garantiza la protección financiera de las prestaciones integrales"
+                  "La misión de Essalud es brindar servicios de salud integrales y de
+                  calidad a todos los asegurados y sus familias, con un enfoque en la prevención,
+                  recuperación y rehabilitación de la salud. Esto implica no solo la atención médica,
+                  sino también la promoción de estilos de vida saludables y la educación sobre la prevención
+                  de enfermedades. Prestaciones de salud, económicas y sociales a nuestros asegurados con una
+                  gestión eficiente e innovadora que garantiza la protección financiera de las prestaciones integrales"
                 </p>
               </motion.div>
               <motion.div
@@ -113,11 +113,11 @@ const Conocenos = () => {
               >
                 <h2 className="text-4xl font-bold">Visión</h2>
                 <p className="text-justify text-xl text-colorTextSecundary">
-                   "Essalud aspira a ser líder en la prestación de servicios de salud, destacándose 
-                   por su excelencia en la atención médica, calidez en el trato a los pacientes y 
-                   accesibilidad a sus servicios. La visión también incluye el compromiso de contribuir 
-                   al bienestar y desarrollo de la sociedad peruana en su conjunto, no solo a través de la
-                   atención médica, sino también a través de programas de salud comunitaria y colaboraciones con otras entidades de salud."
+                  "Essalud aspira a ser líder en la prestación de servicios de salud, destacándose
+                  por su excelencia en la atención médica, calidez en el trato a los pacientes y
+                  accesibilidad a sus servicios. La visión también incluye el compromiso de contribuir
+                  al bienestar y desarrollo de la sociedad peruana en su conjunto, no solo a través de la
+                  atención médica, sino también a través de programas de salud comunitaria y colaboraciones con otras entidades de salud."
                 </p>
               </motion.div>
             </div>

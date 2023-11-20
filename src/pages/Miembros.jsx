@@ -35,7 +35,7 @@ const Miembros = () => {
                 className="flex flex-col items-center justify-center gap-4"
               >
                 <div className="flex h-44 w-44 items-center justify-center overflow-hidden rounded-full">
-                  <img src="/public/repesmaria.jpg" alt="" />
+                  <img src="https://i.ibb.co/cN5Yz0y/1rep.jpg" alt="" />
                 </div>
                 <div>
                   <p className="text-main font-bold">
@@ -56,7 +56,7 @@ const Miembros = () => {
                 className="flex flex-col items-center justify-center gap-4"
               >
                 <div className="flex h-44 w-44 items-center justify-center overflow-hidden rounded-full">
-                  <img src="/public/repespetitt.jpg" alt="" />
+                  <img src="https://i.ibb.co/Yb7m77f/2petitt.jpg" alt="" />
                 </div>
                 <div>
                   <p className="text-main font-bold">
@@ -77,7 +77,7 @@ const Miembros = () => {
                 className="flex flex-col items-center justify-center gap-4"
               >
                 <div className="flex h-44 w-44 items-center justify-center overflow-hidden rounded-full">
-                  <img src="/public/repminsaciro.jpg" alt="" />
+                  <img src="https://i.ibb.co/g4yHDfF/3ciro.jpg" alt="" />
                 </div>
                 <div>
                   <p className="text-main font-bold">
@@ -108,7 +108,7 @@ const Miembros = () => {
                 className="flex flex-col items-center justify-center gap-4"
               >
                 <div className="flex h-44 w-44 items-center justify-center overflow-hidden rounded-full">
-                  <img src="/public/rep/7ronaldo.jpg" alt="" />
+                  <img src="https://i.ibb.co/rHjdZtx/7ronaldo.jpg" alt="" />
                 </div>
                 <div>
                   <p className="text-main font-bold">
@@ -129,7 +129,7 @@ const Miembros = () => {
                 className="flex flex-col items-center justify-center gap-4"
               >
                 <div className="flex h-44 w-44 items-center justify-center overflow-hidden rounded-full">
-                  <img src="/public//rep/9oscar.jpg" alt="" />
+                  <img src="https://i.ibb.co/7S636pP/9oscar.jpg" alt="" />
                 </div>
                 <div>
                   <p className="text-main font-bold">
@@ -150,7 +150,7 @@ const Miembros = () => {
                 className="flex flex-col items-center justify-center gap-4"
               >
                 <div className="flex h-44 w-44 items-center justify-center overflow-hidden rounded-full">
-                  <img src="/public//rep/8vicente.jpg" alt="" />
+                  <img src="https://i.ibb.co/R6jnD2H/8vicente.jpg" alt="" />
                 </div>
                 <div>
                   <p className="text-main font-bold">
@@ -181,7 +181,7 @@ const Miembros = () => {
                 className="flex flex-col items-center justify-center gap-4"
               >
                 <div className="flex h-44 w-44 items-center justify-center overflow-hidden rounded-full">
-                  <img src="/public/rep/4angel.jpg" alt="" />
+                  <img src="https://i.ibb.co/GPzZYmp/4angel.jpg" alt="" />
                 </div>
                 <div>
                   <p className="text-main font-bold">
@@ -202,7 +202,7 @@ const Miembros = () => {
                 className="flex flex-col items-center justify-center gap-4"
               >
                 <div className="flex h-44 w-44 items-center justify-center overflow-hidden rounded-full">
-                  <img src="/public/rep/5mariasol.jpg" alt="" />
+                  <img src="https://i.ibb.co/C1cLs63/5mariasol.jpg" alt="" />
                 </div>
                 <div>
                   <p className="text-main font-bold">
@@ -223,7 +223,7 @@ const Miembros = () => {
                 className="flex flex-col items-center justify-center gap-4"
               >
                 <div className="flex h-44 w-44 items-center justify-center overflow-hidden rounded-full">
-                  <img src="/public/rep/6cesar.jpg" alt="" />
+                  <img src="https://i.ibb.co/803MqD6/6cesar.jpg" alt="" />
                 </div>
                 <div>
                   <p className="text-main font-bold">

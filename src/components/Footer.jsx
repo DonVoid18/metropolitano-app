@@ -1,7 +1,7 @@
-import React from "react";
-import Logo from "/logo.svg";
-import { motion } from "framer-motion";
-import LogoIeeeFooter from "/src/assets/essalud-b.svg";
+import Logo from "/logo.svg"
+import LogoIeeeFooter from "/src/assets/essalud-b.svg"
+import React from "react"
+import { motion } from "framer-motion"
 const DashFooter = () => {
   return (
     <div className="flex w-full items-center justify-center bg-colorSection_2 bg-[url('/public/footer-bkg-white.png')] bg-cover bg-no-repeat py-14 text-header text-white">
@@ -123,7 +123,7 @@ const DashFooter = () => {
         </motion.div>
       </footer>
     </div>
-  );
-};
+  )
+}
 
-export default DashFooter;
+export default DashFooter

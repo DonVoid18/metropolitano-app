@@ -37,7 +37,7 @@ function Home() {
             }}
             className="relative flex h-[300px] w-[300px] items-center justify-center sm:h-[600px] sm:w-[600px] xl:min-h-[530px] xl:min-w-[530px]"
           >
-            <img className="w-full" src={ImagenTeam2} alt="Image Banner" />
+            <img className="w-full" src="https://i.ibb.co/LSFwk8L/43071.jpg" alt="Image Banner" />
             <div className="ctn-tiket-hd bottom-12 sm:bottom-auto sm:top-36 sm:left-1/3">
               <div className="shadow-violetC flex h-10 w-10 items-center justify-center rounded-full bg-[#8567db]">
                 <FontAwesomeIcon
@@ -133,21 +133,21 @@ function Home() {
               >
                 <div className="h-96">
                   <img
-                    src="public/imgessf1.jpg"
+                    src="https://i.ibb.co/6sxtW17/imgessf3.jpg"
                     alt="Image 2"
                     className="h-full w-full object-cover"
                   />
                 </div>
                 <div className="h-96">
                   <img
-                    src="public/imgessf2.jpg"
+                    src="https://i.ibb.co/Qvjk05J/imgessf2.jpg"
                     alt="Image 3"
                     className="h-full w-full object-cover"
                   />
                 </div>
                 <div className="h-96">
                   <img
-                    src="public/imgessf3.jpg"
+                    src="https://i.ibb.co/fncn6X5/mision.jpg"
                     alt="Image 3"
                     className="h-full w-full object-cover"
                   />
@@ -176,7 +176,7 @@ function Home() {
                 className="flex flex-col items-center justify-center gap-4"
               >
                 <div className="flex h-44 w-44 items-center justify-center overflow-hidden rounded-full">
-                  <img src="/public/repesmaria.jpg" alt="" />
+                  <img src="https://i.ibb.co/cN5Yz0y/1rep.jpg" alt="" />
                 </div>
                 <div>
                   <p className="text-main font-bold">
@@ -197,7 +197,7 @@ function Home() {
                 className="flex flex-col items-center justify-center gap-4"
               >
                 <div className="flex h-44 w-44 items-center justify-center overflow-hidden rounded-full">
-                  <img src="/public/repespetitt.jpg" alt="" />
+                  <img src="https://i.ibb.co/Yb7m77f/2petitt.jpg" alt="" />
                 </div>
                 <div>
                   <p className="text-main font-bold">
@@ -218,7 +218,7 @@ function Home() {
                 className="flex flex-col items-center justify-center gap-4"
               >
                 <div className="flex h-44 w-44 items-center justify-center overflow-hidden rounded-full">
-                  <img src="/public/repminsaciro.jpg" alt="" />
+                  <img src="https://i.ibb.co/g4yHDfF/3ciro.jpg" alt="" />
                 </div>
                 <div>
                   <p className="text-main font-bold">
@@ -337,7 +337,7 @@ function Home() {
       </div>
       <div className="relative flex w-full flex-col items-center justify-center overflow-hidden bg-blue-600 text-white xl:h-[580px] xl:flex-row">
         <div className="md:px-10 xl:absolute xl:-left-64 xl:h-full min-[1400px]:-left-52">
-          <img className="xl:h-full" src={Developers} alt="Imagen developers" />
+          <img className="xl:h-full" src="https://i.ibb.co/zSvKSgM/seguros.jpg" alt="Imagen developers" />
         </div>
         <div className="grid w-10/12 max-w-7xl py-20 xl:grid-cols-2 xl:gap-20">
           <div></div>
