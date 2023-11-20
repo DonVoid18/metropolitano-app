@@ -26,7 +26,9 @@ const Conocenos = () => {
               El Seguro Social de Salud está vinculado al Ministerio de Salud para elaborar lineamientos generales en el sector 
               salud. Además, en la actualidad, está relacionado con el Ministerio de Economía y Finanzas porque a través 
               del Fondo Nacional de Financiamiento de la Actividad Empresarial del Estado – FONAFE se le autoriza su presupuesto 
-              anual, formando parte de las empresas del Estado Peruano.
+              anual, formando parte de las empresas del Estado Peruano.n todos estos años, el Seguro Social de Salud ha sufrido 
+              numerosos cambios estructurales, del cual se han ido modificando para mejorar la gestión institucional en beneficio de los asegurados y sus derechohabientes.
+              A inicios del 2013, el Ministerio de Trabajo y Promoción del Empleo declara en reorganización al Seguro Social de Salud mediante Decreto Supremo N° 016-2012-TR.
             </p>
           </motion.div>
           <div className="flex items-center justify-center">
